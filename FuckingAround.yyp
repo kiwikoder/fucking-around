@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "c1a64f8a-2966-4205-b525-0797fad4f5f0",
+            "Value": {
+                "id": "138db386-1877-4d04-8bb4-c37594186314",
+                "resourcePath": "objects\\o_Smiley\\o_Smiley.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c5a5fbbc-d6b1-4e84-ac11-94d17c8e804d",
             "Value": {
                 "id": "d6e14e8d-8669-48e4-bb16-48f5122ae78b",
